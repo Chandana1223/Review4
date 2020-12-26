@@ -6,7 +6,7 @@ class file
       {
         for (int s=1; s<=i; s++)
           {
-         System.out.print(s);
+             	System.out.print(s+" ");
           }
          System.out.println();
       }
